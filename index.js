@@ -26,7 +26,7 @@ const instructMsg =  ()=> {
         {
             type: "input",
             name: "instructions",
-            message: terminalMessage + "\nThis command-line application will prompt you for information about you team members.\nAn HTML document will be generated that displays a nicely formatted team \nroster based on the infomation you submitted.\nPress the ENTER key to continue.\n"
+            message: terminalMessage + "\nThis command-line application will prompt you for information about your team members.\nAn HTML document will be generated that displays a nicely formatted team \nroster based on the infomation you submitted.\nPress the ENTER key to continue.\n"
         }
     ])
     .then(managerInfo)

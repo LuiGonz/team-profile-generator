@@ -31,7 +31,11 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 ```
 
+## Video
+
+![Team Roster Video](https://watch.screencastify.com/v/Md21GDlX6EFK1tWYzEgi)
+
+
 ## Screenshot
 
 ![Team Roster](https://user-images.githubusercontent.com/89287787/141657112-4cf964c6-2b55-4ae7-b443-d42d89020907.png)
-
