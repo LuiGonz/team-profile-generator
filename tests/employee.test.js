@@ -8,7 +8,6 @@ describe("Employee", ()=> {
             expect(employeeInfo.name).toEqual("Lu Gonz");
             expect(employeeInfo.id).toEqual(123456);
             expect(employeeInfo.email).toEqual("LuGonz@gmail.com");
-            expect(employeeInfo).toEqual(expected);
         })
     });
 
