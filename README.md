@@ -33,7 +33,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Video
 
-![Team Roster Video](https://watch.screencastify.com/v/Md21GDlX6EFK1tWYzEgi)
+https://watch.screencastify.com/v/Md21GDlX6EFK1tWYzEgi
 
 
 ## Screenshot
